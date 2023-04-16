@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="http://fonts.cdnfonts.com/css/xb-kayhan" rel="stylesheet" />
+    <title>Art Description</title>
+  </head>
+  <style>
+    body {
+      background-color: black;
+    }
+
+    img {
+      width: 800px;
+    }
+
+    .description-container {
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      margin: 0 auto;
+      max-width: 1400px;
+    }
+
+    .text-container {
+      margin-left: 50px;
+    }
+
+    p {
+      color: white;
+      font-size: 20px;
+      line-height: 24px;
+    }
+
+    span {
+      color: #e18a07;
+      text-transform: uppercase;
+    }
+
+    .arrow {
+      position: absolute;
+      top: 50px;
+      left: 20px;
+      height: 60px;
+      width: 100px;
+      transform: rotate(180deg);
+    }
+
+    .arrow:before {
+      content: "";
+      width: 55px;
+      height: 2px;
+      background: white;
+      position: absolute;
+      top: 50%;
+      margin-top: -1px;
+      right: 24px;
+      transition: all 0.3s ease;
+    }
+
+    .arrow:hover:before {
+      right: 34px;
+      width: 70px;
+    }
+
+    .arrow:after {
+      content: "";
+      width: 0;
+      height: 0;
+      border-style: solid;
+      border-width: 5px 0 5px 5px;
+      border-color: transparent transparent transparent white;
+      position: absolute;
+      top: 50%;
+      margin-top: -5px;
+      right: 20px;
+      transition: all 0.3s ease;
+    }
+
+    .arrow:hover:after {
+      right: 0px;
+      right: 30px;
+    }
+
+    h1 {
+      text-align: center;
+      color: #e18a07;
+      text-transform: uppercase;
+    }
+
+    h2 {
+      color: white;
+      text-align: center;
+      font-weight: normal;
+      margin-bottom: 50px;
+    }
+
+    .wrapper-text-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-top: 150px;
+      margin-bottom: 50px;
+    }
+  </style>
+
+  <body>
+    <div>
+      <a href="/" class="arrow"></a>
+      <div class="wrapper-text-container">
+        <div class="header-container">
+          <h1>{%PAINTINGNAME%}</h1>
+          <h2>{%ARTIST%}</h2>
+        </div>
+        <div class="description-container">
+          <div>
+            <img src="{%IMAGE%}" alt="{%PAINTINGNAME%}" />
+          </div>
+          <div class="text-container">
+            <p><span>Date:</span> {%ESTIMEATEDDATE%}</p>
+            <p><span>Where to see:</span> {%PLACE%}</p>
+            <p>{%DESCRIPTION%}</p>
+            <p><span>Hidden fact:</span> {%HIDDENFACT%}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

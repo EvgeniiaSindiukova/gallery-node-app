@@ -1,0 +1,92 @@
+[
+  {
+    "id": 0,
+    "paintingName": "Mona Lisa",
+    "artist": "Leonardo da Vinci",
+    "image": "https://media.vanityfair.com/photos/5bb3977bd23564139e45ce64/master/pass/GettyImages-944564060.jpg",
+    "estimatedDate": "1503 to 1519",
+    "place": "Louvre Museum (Paris)",
+    "hiddenFact": "Before the 20th century, historians say the 'Mona Lisa' was little known outside art circles. But in 1911, an ex-Louvre employee pilfered the portrait and hid it for two years. That theft helped cement the painting's place in popular culture ever since and exposed millions to Renaissance art.",
+    "description": "It should come as no surprise that the most famous painting in the world is that mysterious woman with the enigmatic smile. But that's one of the few certainties about this work of art. The sitter in the painting is thought to be Lisa Gherardini, the wife of Florence merchant Francesco del Giocondo, but experts aren't sure. It did represent an innovation in art -- the painting is the earliest known Italian portrait to focus so closely on the sitter in a half-length portrait, according to the Louvre, where it was first installed in 1804."
+  },
+  {
+    "id": 1,
+    "paintingName": "The Last Supper",
+    "artist": "Leonardo da Vinci",
+    "image": "https://jesus.net/wp-content/uploads/2019/03/Last-Supper-Santa-Maria-delle-Grazie.jpg",
+    "estimatedDate": "1495 to 1498",
+    "place": "Santa Maria delle Grazie (Milan, Italy)",
+    "hiddenFact": "The fresco has survived two wartime threats -- Napoleon's troops used the wall of the refectory on which the fresco was painted as target practice. It also was exposed to the air for several years when bombing during World War II destroyed the roof of the Dominican convent of Santa Maria delle Grazie in Milan.",
+    "description": "Leonardo, the original 'Renaissance Man,' is the only artist to appear on this list twice.Painted in an era when religious imagery was still a dominant artistic theme, 'The Last Supper' depicts the last time Jesus broke bread with his disciples before his crucifixion. The painting is actually a huge fresco -- 4.6 meters (15 feet) high and 8.8 meters (28.9 feet) wide, which makes for a memorable viewing."
+  },
+  {
+    "id": 2,
+    "paintingName": "The Starry Night",
+    "artist": "Vincent van Goght",
+    "image": "https://qph.cf2.quoracdn.net/main-qimg-31ac3d0fa1e14f89f630fddbb8e694a5-lq",
+    "estimatedDate": "1889",
+    "place": "Museum of Modern Art (New York City)",
+    "hiddenFact": "Van Gogh was living in an asylum in Saint-Rémy, France, being treated for mental illness, when he painted 'The Starry Night.' He was inspired by the view from the window of his room.",
+    "description": "The comparatively abstract painting is the signature example of van Gogh's innovative and bold use of thick brushstrokes. The painting's striking blues and yellows and the dreamy, swirling atmosphere have intrigued art lovers for decades."
+  },
+  {
+    "id": 3,
+    "paintingName": "The Scream",
+    "artist": "Edvard Munch",
+    "image": "https://ugc.futurelearn.com/uploads/images/09/93/099352a9-fbfc-43c0-a492-6f575cddd316.jpg",
+    "estimatedDate": "1893",
+    "place": "National Museum (Oslo, Norway -- opening in 2020) and Munch Museum (Oslo -- through May 2020)",
+    "hiddenFact": "The androgynous figure in the forefront of the Art Nouveau-style painting isn't producing the scream but rather is trying to block out a piercing shriek coming from nature. It was inspired by an actual experience Munch had while taking in a sunset stroll in Oslo when a dramatic red hue overwhelmed his senses.",
+    "description": "First things first -- 'The Scream'is not a single work of art. According to a British Museum's blog, there are two paintings, two pastels and then an unspecified number of prints. The paintings reside in the National Museum and the Munch Museum, and in 2012, one of the pastels sold for almost $120 million at auction. Much like the case of 'Mona Lisa', daring thefts (1994 and 2004) of the two painting versions of 'The Scream' helped elevate the public's awareness of the artworks. (Both were eventually found)."
+  },
+  {
+    "id": 4,
+    "paintingName": "Guernica",
+    "artist": "Pablo Picasso",
+    "image": "https://sacavoyage.fr/wp-content/uploads/TABLEAU-GUERNICA.jpg",
+    "estimatedDate": "1937",
+    "place": "Museo Reina Sofía (Madrid)",
+    "hiddenFact": "'Guernica' was moved to the Metropolitan Museum of Modern Art in New York during World War II for safekeeping. Picasso requested that the stay be extended until democracy returned to Spain. It finally went back to Madrid in 1981, six years after the death of longtime Spanish dictator Gen. Francisco Franco.",
+    "description": "This is the most recent painting on this list, and it depicts the German aerial bombing of the town of Guernica in the Basque region during the Spanish Civil War. The painting has that distinctive Picasso style, and its unflinching examination of the horrors of war made it an essential part of 20th century culture and history."
+  },
+  {
+    "id": 5,
+    "paintingName": "The Kiss",
+    "artist": "Gustav Klimt",
+    "image": "https://i.pinimg.com/736x/a2/59/d4/a259d453d98b460df377f571c53e807d--the-kiss-vienna-austria.jpg",
+    "estimatedDate": "1907 to 1908",
+    "place": "Upper Belvedere museum (Vienna, Austria)",
+    "hiddenFact": "While 'The Kiss' isn't for sale, other works by Klimt are bought and sold for huge sums. Oprah Winfrey offloaded the 1907 artwork 'Portrait of Adele Bloch-Bauer II' for $150 million in 2016 -- for a cool $60 million profit.",
+    "description": "With No. 6, we move from a study in hate to a study in love with Gustav Klimt's beloved 'The Kiss.' From Klimt's 'Golden Period', Byzantine artistic influences can be seen in the highly decorative robes worn by the passionate, life-sized couple. The Upper Belvedere says that with 'The Kiss' , Klimt makes a 'general allegorical statement about love being at the heart of human existence'. Given its magnetic appeal, it seems people agree."
+  },
+  {
+    "id": 6,
+    "paintingName": "Girl With a Pearl Earring",
+    "artist": "Johannes Vermeer",
+    "image": "https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/02/27/17/pearl-earring.jpg?quality=75&width=982&height=726&auto=webp",
+    "estimatedDate": "1665",
+    "place": "Mauritshuis (The Hague, Netherlands)",
+    "hiddenFact": "While the Mauritshuis underwent a renovation from 2012 to 2014, 'Girl With a Pearl Earring' went on tour in the United States, Italy and Japan. It drew huge crowds, further bolstering its status as one of the world's most famous works of art.",
+    "description": "This intriguing favorite often gets compared with the 'Mona Lisa'. Besides the stylistic differences, technically 'Girl With a Pearl Earring' isn't even a portrait, but a 'tronie' -- a Dutch word for a painting of an imaginary figure with exaggerated features. The oil on canvas masterpiece is brilliant in its simplicity. The girl -- wearing a blue and gold turban and an oversized pearl earring -- is the entire focus with only a dark backdrop behind her."
+  },
+  {
+    "id": 7,
+    "paintingName": "The Birth of Venus",
+    "artist": "Sandro Botticelli",
+    "image": "https://news.artnet.com/app/news-upload/2018/12/GettyImages-615137998-1024x683.jpg",
+    "estimatedDate": "1485",
+    "place": "Le Gallerie Degli Uffizi (Florence, Italy)",
+    "hiddenFact": "Botticelli's 'Venus' features two significant departures from most other works of his contemporaries. First, he painted on canvas instead of the more popular wood. Secondly, nudity was rare at this time -- so it was daring that Venus is completely exposed minus her long, flowing hair and a hand (barely) covering her most intimate body parts.",
+    "description": "The oldest painting in the top 10 and competing with 'The Kiss' for most sensuous, 'The Birth of Venus' was probably commissioned by a member of the wealthy and art-loving Medici family, which ruled Florence and nearby areas for centuries.Marrying a renewed interest in classic Greek culture with Early Renaissance style, Botticelli creates an unforgettable figure with the Goddess of Love emerging from a huge scallop shell."
+  },
+  {
+    "id": 8,
+    "paintingName": "Las Meninas",
+    "artist": "Diego Velázquez",
+    "image": "https://i.pinimg.com/736x/7c/0f/f8/7c0ff8633bf68357ed776b49af79377a--vanitas-prado.jpg",
+    "estimatedDate": "1656",
+    "place": "Museo del Prado (Madrid)",
+    "hiddenFact": "'Las Meninas' was commissioned by King Philip IV of Spain, who ruled from 1621 to 1665. It stayed in the royal palace until 1819, when it went to the Prado.",
+    "description": "Madrid is the only city in this roundup where you'll find two of the most 10 famous paintings, the first being 'Guernica' at No. 5 and 'Las Maninas' here at No. 9. Housed at the popular (and vast) Prado, 'Las Meninas' is not only Diego Velázquez`s most famous painting, it's also one of his largest. The complexity of the work has fascinated art critics and the public for centuries.The painting does double duty as a portrait. It serves as a group portrait of Spanish royalty, but it's also a self-portrait of Velázquez himself at work (on the left)."
+  }
+]
